@@ -3,13 +3,12 @@ This project explores the relationship between advertising spend and sales reven
 
 📊 Dataset:
 
-500 rows of synthetic yet realistic data.
+500 rows of data.
 Feature: Advertising Spend ($).
 Target: Sales Revenue ($).
 
 📉 Steps Covered:
 ✅ Data Cleaning & Preprocessing
-✅ Exploratory Data Analysis (EDA)
 ✅ Building & Evaluating the Regression Model
 ✅ Visualizing the Regression Line
-✅ Error Metrics (MSE, RMSE, MAE)
+✅ Error Metrics (MSE, RMSE, MAE, R^2 and Adjusted R^2)
